@@ -1,0 +1,2 @@
+# Automated-Web-Scraper-for-RLA-Directory-and-Committees
+A Python-based web scraper designed to extract detailed company and member information from the Reverse Logistics Association (RLA) directory and committee pages. Utilizing Selenium with undetected ChromeDriver, this script automates the process of logging in, navigating the website, and exporting the data into Excel files for further analysis.
